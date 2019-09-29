@@ -1,6 +1,6 @@
 # Matter
 
-Minimalist grub theme inspired by material design 2.
+Minimalist grub theme inspired by material design 2 using the nord color palette.
 
 ![Matter Grub](demo.png)
 

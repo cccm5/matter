@@ -4,8 +4,8 @@
 # Global Property
 title-text: ""
 # desktop-image: "background.png"
-desktop-color: "#263238"
-terminal-font: "GoogleSans Regular 32"
+desktop-color: "#2e3440"
+terminal-font: "DejaVuSansMono Nerd Font 32"
 terminal-box: "terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
@@ -19,9 +19,9 @@ terminal-border: "0"
   top = 29%
   width = 28%
   height = 60%
-  item_font = "GoogleSans Regular 32"
-  item_color = "#cccccc"
-  selected_item_color = "#e91e63"
+  item_font = "DejaVuSansMono Nerd Font 32"
+  item_color = "#eceff4"
+  selected_item_color = "#88c0d0"
   icon_width = 72
   icon_height = 72
   item_height = 72
